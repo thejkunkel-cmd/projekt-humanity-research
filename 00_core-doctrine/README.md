@@ -1,8 +1,8 @@
 # 00_core-doctrine/
 
 **Layer:** Core Doctrine Stack
-**Status:** ACTIVE
-**Classification:** PUBLIC (floor-doctrine) / INTERNAL (remaining files)
+**Status:** COMPLETE
+**Classification:** PUBLIC (floor, safety-spine, bridge, attachment, resonance, wall, window) / INTERNAL (PROVENANCE-FORMAT)
 **Migrated from:** `jrk-enterprises/00_core-doctrine/`
 **Migration date:** 2026-06-09
 
@@ -19,15 +19,26 @@ This folder holds the canonical doctrine stack for proJeKt: humAnIty. All rooms,
 | File | Description | Status |
 |------|-------------|--------|
 | `floor-doctrine.md` | The four non-negotiable floor principles | ACTIVE ✓ |
-| `safety-spine.md` | Safety Spine v1.0 | PENDING CONTENT |
-| `attachment-doctrine.md` | Attachment Doctrine | PENDING CONTENT |
-| `wall-doctrine.md` | Wall Doctrine | PENDING CONTENT |
-| `window-doctrine.md` | Window Doctrine | PENDING CONTENT |
-| `bridge-doctrine.md` | Bridge Doctrine | PENDING CONTENT |
-| `resonance-function.md` | Resonance Function | PENDING CONTENT |
-| `PROVENANCE-FORMAT.md` | Provenance format standard | PENDING CONTENT |
-| `DOCTRINE-INDEX.md` | Doctrine index (local) | PENDING CONTENT |
+| `safety-spine.md` | Safety Spine v1.1 — includes Rule 6 (Adversarial Capability) | ACTIVE ✓ |
+| `wall-doctrine.md` | Wall Doctrine — identity and scope boundaries | PROVISIONAL ✓ |
+| `window-doctrine.md` | Window Doctrine — visibility and consent architecture | PROVISIONAL ✓ |
+| `bridge-doctrine.md` | Bridge Doctrine — JRK Enterprises as bridge institution | ACTIVE ✓ |
+| `attachment-doctrine.md` | Attachment Doctrine — relational governance | ACTIVE ✓ |
+| `resonance-function.md` | Resonance Function — output quality and interaction integrity | ACTIVE ✓ |
+| `PROVENANCE-FORMAT.md` | Official provenance log entry schema | ACTIVE ✓ |
+| `DOCTRINE-INDEX.md` | Public navigation summary for the doctrine stack | ACTIVE ✓ |
 
 ---
 
-> All PENDING CONTENT files exist in `jrk-enterprises/00_core-doctrine/` and are ready to be pushed. Paste content or authorize full migration to complete.
+## Reading Order
+
+1. `floor-doctrine.md` — start here
+2. `attachment-doctrine.md` — why everything else exists
+3. `wall-doctrine.md` + `window-doctrine.md` — boundary architecture
+4. `bridge-doctrine.md` — JRK Enterprises positioning
+5. `resonance-function.md` — quality measurement
+6. `safety-spine.md` — cross-cutting governance (read last, applies everywhere)
+
+---
+
+> All files complete as of 2026-06-09. Authoritative copy lives here. `jrk-enterprises/00_core-doctrine/` remains as origin reference.
