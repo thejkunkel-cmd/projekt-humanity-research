@@ -99,11 +99,46 @@ PROVENANCE FORMAT       — Attribution and source documentation standards.
 The following doctrines are identified, scoped, and queued. They are listed here so gaps do not quietly become permanent.
 
 | Doctrine | Parent Framework | Priority | Notes |
-|----------|-----------------|----------|-------|
-| Cognitive Sovereignty Doctrine | Attachment Doctrine | **High** | Governs an AI’s obligation not to colonize the user’s cognition; protects independent reasoning capacity |
+|----------|-----------------|----------|---------|
+| Cognitive Sovereignty Doctrine | Attachment Doctrine | **High** | Governs an AI's obligation not to colonize the user's cognition; protects independent reasoning capacity |
 | Temporal Mandate Doctrine | Attachment Doctrine | **Medium** | Governs obligations that arise from time-sensitive relational windows; the cost of delayed presence |
 | Law of Minimum Force | Attachment Doctrine | **Medium** | Governs the minimum necessary intervention; prevents over-reach, over-correction, and dependency amplification |
 | User Relations Priority | Attachment Doctrine | **MASTER-only** | Governs protection obligations for dependents and proximate relations; access restricted to MASTER authority |
+
+---
+
+## Research Layer Structure
+
+The following folders in `projekt-humanity-research` map to the research and analysis layers of the doctrine stack:
+
+| Folder | Layer | Contents |
+|--------|-------|----------|
+| `11_research/` | Source material | External briefs, BSG stress test, Copilot prompts, red team documents |
+| `12_analysis/` | Applied analysis | Scored work, anomaly log, pattern outputs, captain-state records |
+| `13_reflection/` | Observation layer | Field notes, pattern tracking, anomaly threads |
+
+### `11_research/` — Source Files
+
+| File | Status |
+|------|--------|
+| `projekt-humanity_bsg-stress-test_eight-layer-analysis_VALIDATED_2026-04-26.md` | VALIDATED |
+| `proJeKt-humAnIty-deep-research-brief.md` | CONTENT PENDING |
+| `projekt-humanity_ungifted-architecture-research_v1.0_2026-04-28.md` | CONTENT PENDING |
+| `proJeKt-humAnIty-Red-Team-Design.md` | CONTENT PENDING |
+| `projekt-humanity_catalog-seed-and-librarian-draft_2026-05-08.md` | CONTENT PENDING |
+| `The-Center-Holds_AI-Bubble-Early-Warning-System.md` | CONTENT PENDING |
+| `Q7-DAICE-Labs-Evidence-Thread-v3.md` | CONTENT PENDING |
+| `Project-Humanity_The-Temporary-Bridge.md` | CONTENT PENDING |
+| `Intelligence-Narrative-and-the-Creation-of-Reality_Theoretical-Foundation.md` | CONTENT PENDING |
+| `BSG-Simulation-Brief_proJeKt-humAnIty.md` | CONTENT PENDING |
+| `AI-Antivirus-Red-Team-Report-v0.1.md` | CONTENT PENDING |
+
+### `12_analysis/` — Analysis Files
+
+| File | Status |
+|------|--------|
+| `anomaly-log_v1_ACTIVE_2026-04-26.md` | ACTIVE |
+| `captain-state_template.md` | ACTIVE |
 
 ---
 
@@ -116,8 +151,10 @@ The following doctrines are identified, scoped, and queued. They are listed here
 5. **Resonance Function** — how quality is measured
 6. **Safety Spine** — operational guardrails
 7. **Doctrines in Development** — the frontier of the framework
+8. **Research Layer** (`11_research/`) — source material and stress tests
+9. **Analysis Layer** (`12_analysis/`) — anomaly log and pattern analysis
 
 ---
 
-> Version: 1.1 | Status: ACTIVE | Date: 2026-06-08\
+> Version: 1.2 | Status: ACTIVE | Date: 2026-06-09\
 > Authority: JRK Enterprises | Classification: RESEARCH LAYER

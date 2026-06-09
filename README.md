@@ -2,9 +2,9 @@
 
 <div align="center">
 
-![Version](https://img.shields.io/badge/version-1.0-C9922A?style=flat-square&labelColor=0D0D0D)
+![Version](https://img.shields.io/badge/version-1.1-C9922A?style=flat-square&labelColor=0D0D0D)
 ![Status](https://img.shields.io/badge/status-ACTIVE-2D5A27?style=flat-square&labelColor=0D0D0D)
-![Updated](https://img.shields.io/badge/updated-June_8_2026-4A7FC1?style=flat-square&labelColor=0D0D0D)
+![Updated](https://img.shields.io/badge/updated-June_9_2026-4A7FC1?style=flat-square&labelColor=0D0D0D)
 ![Access](https://img.shields.io/badge/access-EVALUATOR_LAYER-8B6914?style=flat-square&labelColor=0D0D0D)
 
 **JRK Enterprises · Putnam, Connecticut**
@@ -52,9 +52,25 @@ projekt-humanity-research/
 ├── 07_resonance-logs/                 ← Human signal layer logs
 ├── 08_ancient-humanity/               ← Attachment theory foundations
 ├── 10_session-logs/                   ← Session archive
-├── 11_analysis/                       ← Applied analysis outputs
-├── 12_reflection/                     ← Anomaly log, pattern tracking
-└── 13_research/                       ← BSG stress test, white paper, Copilot prompts
+│
+├── 11_research/                       ← Source material, external briefs, red team, Copilot prompts
+│   ├── projekt-humanity_bsg-stress-test_eight-layer-analysis_VALIDATED_2026-04-26.md
+│   ├── proJeKt-humAnIty-deep-research-brief.md             [CONTENT PENDING]
+│   ├── projekt-humanity_ungifted-architecture-research_v1.0_2026-04-28.md  [CONTENT PENDING]
+│   ├── proJeKt-humAnIty-Red-Team-Design.md                 [CONTENT PENDING]
+│   ├── projekt-humanity_catalog-seed-and-librarian-draft_2026-05-08.md      [CONTENT PENDING]
+│   ├── The-Center-Holds_AI-Bubble-Early-Warning-System.md  [CONTENT PENDING]
+│   ├── Q7-DAICE-Labs-Evidence-Thread-v3.md                 [CONTENT PENDING]
+│   ├── Project-Humanity_The-Temporary-Bridge.md            [CONTENT PENDING]
+│   ├── Intelligence-Narrative-and-the-Creation-of-Reality_Theoretical-Foundation.md  [CONTENT PENDING]
+│   ├── BSG-Simulation-Brief_proJeKt-humAnIty.md            [CONTENT PENDING]
+│   └── AI-Antivirus-Red-Team-Report-v0.1.md                [CONTENT PENDING]
+│
+├── 12_analysis/                       ← Applied analysis outputs, scored work, pattern outputs
+│   ├── anomaly-log_v1_ACTIVE_2026-04-26.md
+│   └── captain-state_template.md
+│
+└── 13_reflection/                     ← Field notes, pattern tracking, observation layer
 ```
 
 ---
@@ -106,7 +122,8 @@ For the full map including doctrines in development: [DOCTRINE-INDEX.md](./DOCTR
 2. Read [00_doctrine/floor-doctrine.md](./00_doctrine/floor-doctrine.md) and [attachment-doctrine.md](./00_doctrine/attachment-doctrine.md)
 3. Review [01_eight-layer-framework/](./01_eight-layer-framework/) — the evaluation methodology
 4. Review [02_evaluation/](./02_evaluation/) — the applied scoring
-5. Reference [13_research/](./13_research/) for white paper and stress test materials
+5. Reference [11_research/](./11_research/) for source briefs, red team documents, and stress test materials
+6. Review [12_analysis/](./12_analysis/) for anomaly log and pattern analysis
 
 ---
 
