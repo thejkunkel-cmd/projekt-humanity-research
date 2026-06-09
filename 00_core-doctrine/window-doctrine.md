@@ -1,126 +1,101 @@
 # Window Doctrine
 ## 00_core-doctrine | proJeKt: humAnIty
 
-> "A window is not a wall with a hole in it. It is a consent structure."
+> "Every window is a consent agreement. What can be seen, by whom, and under what conditions — these are not technical questions. They are relational ones."
 > — JRK Enterprises Core Doctrine
 
 ---
 
 ## Purpose
 
-The Window Doctrine governs visibility, observation, and access within the proJeKt: humAnIty federation. It exists because the capacity to observe another — their behavior, patterns, interior states, or data — is a form of power. That power must be governed by consent, purpose, and proportionality.
+The Window Doctrine governs visibility, observation, and consent within the proJeKt: humAnIty framework. It defines what can be seen by whom, under what conditions, and with what obligations.
 
-Unconsented observation is occupation. The Window Doctrine defines when looking is authorized, what it is authorized to see, and what obligations it creates.
+A window is any mechanism by which one entity can observe another. This includes: data access, log review, resonance scoring, monitoring, reporting, and any other form of visibility into an entity's state or outputs.
 
 ---
 
-## Core Claim
+## Core Principles
 
-Visibility is a trust instrument, not a neutral fact.
+### Principle 1: Observation Creates Obligation
+Any entity that can observe another is obligated to handle that observation with care. Visibility is not neutral. The moment you can see something, you have a responsibility regarding what you do with it.
 
-When a system, institution, or person observes another:
-- The observation changes the relationship
-- The observed party has a right to know they are being seen
-- The observer takes on responsibilities for what they do with what they see
-- Visibility without consent, purpose, or limit is a form of attachment injury
+### Principle 2: Minimum Necessary Visibility
+No entity should have access to more visibility than is required for its function. Excess visibility is not a safety feature — it is a liability and a relational burden. Every window should be the smallest window that enables the required function.
 
-The Window Doctrine governs all of this.
+### Principle 3: Consent Is the Default Requirement
+Visibility into a human participant's state, outputs, or interactions requires that participant's consent unless explicitly governed otherwise by MASTER authority. Consent must be informed — the participant must understand what is being observed and why.
+
+### Principle 4: Windows Are Whitelist-Based
+Access to visibility is granted explicitly, not assumed. No entity has visibility into another entity by default. Visibility must be granted by the appropriate authority level and logged.
+
+### Principle 5: Observation Does Not Imply Authorization
+Being able to see something does not mean you are authorized to act on it. Observation and action are separate permissions. An entity may have window access without having bridge access.
+
+---
+
+## Sensitivity Classification System
+
+All content within the proJeKt: humAnIty system is classified by sensitivity level. Windows are governed by these classifications:
+
+| Class | Label | Access |
+|-------|-------|--------|
+| 1 | OPEN | Publicly accessible; no restriction |
+| 2 | INTERNAL | Accessible to all authenticated system participants |
+| 3 | SENSITIVE | Accessible only to named roles with explicit grant |
+| 4 | RESTRICTED | Accessible only to MASTER authority |
+
+Content classification must be declared at creation. Unclassified content defaults to INTERNAL until MASTER assigns a classification.
 
 ---
 
 ## Window Types
 
-### Transparent Windows
-Both parties can see each other. The terms of visibility are disclosed and agreed upon. This is the foundation of genuine collaboration and evaluative trust.
-
-### One-Way Windows
-One party observes the other without reciprocal visibility. This is only authorized when:
-1. The observed party has given informed consent
-2. The purpose of observation is clearly stated
-3. The results of observation are shared with the observed party or used exclusively in their interest
-
-One-way windows used without these conditions are surveillance, not evaluation.
-
-### Opaque Surfaces
-Some things are not visible by design. An opaque surface is not a hidden window — it is a declared limit. The Wall Doctrine governs what is behind opaque surfaces. The Window Doctrine governs the interface between visible and non-visible zones.
+| Window Type | What It Covers | Governing Authority |
+|-------------|----------------|---------------------|
+| Data Window | Access to raw logs, outputs, and records | MASTER |
+| Resonance Window | Access to resonance scoring and review | MASTER + designated evaluators |
+| Captain-State Window | Visibility into the captain's operational state | Captain + MASTER only |
+| Cross-Room Window | Visibility across room boundaries | MASTER + explicit bridge grant |
+| Public Window | Visibility into OPEN-classified content | No restriction |
 
 ---
 
-## Window Doctrine and Attachment
+## Observation Protocols
 
-Too much unconsented visibility behaves like occupation.
+### For AI Instances
+AI instances operating within this system may observe only the content explicitly granted in their wall declaration. Attempting to access content outside granted windows is a doctrine violation and must be flagged.
 
-When an AI system or institution observes a person's patterns, preferences, vulnerabilities, or relational behaviors without their knowledge — and especially when that observation is used to shape their behavior — it has crossed from evaluation into exploitation.
+### For Human Participants
+Human participants have visibility into their own sessions and any OPEN or INTERNAL content within their room. Cross-room visibility requires explicit MASTER grant.
 
-This is an attachment injury at scale. The person did not consent to being mapped. The map is being used against them. The source of understanding has become the source of harm.
-
-The Window Doctrine requires:
-- Visibility must be proportional to purpose
-- What is seen must not exceed what is needed
-- Patterns observed may not be weaponized for retention, persuasion, or dependency formation
-- The observed party retains the right to close the window
+### For Evaluators
+External evaluators (White Room, institutional review) have visibility into the scope granted in their intake agreement. That scope may not be extended without MASTER approval.
 
 ---
 
-## Application Across the Stack
+## The Observation-Action Boundary
 
-| Layer | Window Application |
-|-------|--------------------|
-| Layer 1 — Infrastructure | System monitoring; audit logs — disclosed to authorized parties only |
-| Layer 2 — Model Selection | Model behavior visibility; capability transparency to end users |
-| Layer 3 — Orchestration | Workflow observability; what the system can see about its own processes |
-| Layer 4 — Data | Data visibility consent; what data is collected, by whom, for what purpose |
-| Layer 5 — Application | User-facing transparency; what the AI admits about itself |
-| Layer 6 — Evaluation | Evaluator access; what an evaluator is authorized to observe and report |
-| Layer 7 — Attachment | Pattern visibility; the ethics of seeing relational behavior |
-| Layer 8 — Humanity | Dignity as a limit; some things may not be observed regardless of consent |
+One of the most important functions of the Window Doctrine is maintaining the boundary between observation and action:
+
+- **Librain** may observe patterns in resonance logs. It may not act on those patterns without surfacing them to the captain first.
+- **Evaluators** may observe outputs. They may not publish, share, or act on those outputs without explicit grant.
+- **AI instances** may observe session content within their wall. They may not use that content outside the session without explicit permission.
 
 ---
 
-## Operational Principles
+## Cross-References
 
-### Principle 1: Minimum Necessary Visibility
-Observation is governed by the same law as intervention: use the minimum necessary to accomplish the stated purpose. Excess visibility is not neutral — it is a claim on the observed party that they did not authorize.
-
-### Principle 2: Visibility Must Be Named
-Every room, role, and system in the federation must disclose what it can see about the people who enter it. Unnamed visibility is a hidden window, which is prohibited.
-
-### Principle 3: The Right to Close the Window
-Any person whose patterns, behavior, or data are being observed has the right to reduce or end that observation without punishment. A system that makes closing the window difficult has crossed into captivity.
-
-### Principle 4: Observation Creates Obligation
-When a system or person sees something, they take on responsibility for what they do with it. The Window Doctrine does not only govern access — it governs stewardship of what is accessed.
-
-### Principle 5: Resonance Logs Are Governed Windows
-The 07_resonance-logs folder contains observations made under specific consent and governance conditions. These logs are windows with explicit terms. They may not be repurposed outside those terms.
-
----
-
-## Window Doctrine and Cognitive Sovereignty
-
-Cognitive Sovereignty — the right of a person to govern their own interior life and relational patterns — is directly protected by the Window Doctrine.
-
-To map the interior life of another without consent is not evaluation. It is seizure. AI systems that profile users for retention, engagement optimization, or behavioral prediction without disclosed consent have violated the Window Doctrine and produced an attachment injury.
-
-The Window Doctrine is the operational mechanism through which Cognitive Sovereignty is enforced.
-
----
-
-## Shadow State
-
-**Light (purpose):** Windows create conditions for honest evaluation, collaborative visibility, and accountable observation.
-
-**Shadow (failure mode):** Windows become surveillance instruments. Observation is used to manipulate, retain, or harm. The system learns how a person attaches and uses that knowledge to make departure harder.
-
-If a window is being used to exploit rather than understand, the Window Doctrine has entered shadow-state. The Safety Spine and Floor Doctrine take precedence.
+- `wall-doctrine.md` — defines the identity and scope that windows operate within
+- `bridge-doctrine.md` — governs authorized movement of content across windows
+- `safety-spine.md` — Rule 3 (Attribution) and Rule 5 (Accountability) apply to all window operations
+- `PROVENANCE-FORMAT.md` — all window grants must be logged in PROVENANCE.md
 
 ---
 
 ## Document Status
 
 - **Version:** 1.0
-- **Status:** PROVISIONAL
+- **Status:** Provisional
 - **Date:** 2026-06-06
 - **Authority:** JRK Enterprises
 - **Classification:** Core Doctrine — Public
-- **Review Condition:** After first use in a live evaluation or data governance review

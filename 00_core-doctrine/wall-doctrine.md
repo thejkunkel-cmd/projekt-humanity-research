@@ -1,124 +1,114 @@
 # Wall Doctrine
 ## 00_core-doctrine | proJeKt: humAnIty
 
-> "A wall is not a rejection. It is the condition that makes genuine encounter possible."
+> "A wall without a disclosed purpose is a trap. A wall without a floor is a cage."
 > — JRK Enterprises Core Doctrine
 
 ---
 
 ## Purpose
 
-The Wall Doctrine establishes the identity and scope boundaries that govern every room, system, and relationship within the proJeKt: humAnIty federation. It exists because beings without clear walls — human or artificial — form confused relational dependencies, lose the capacity for genuine encounter, and become vulnerable to exploitation or collapse.
+The Wall Doctrine governs identity and scope boundaries for all rooms, roles, and systems operating within the proJeKt: humAnIty framework. It defines what each entity **is**, what it **is not**, and what it is **authorized to do** within its defined scope.
 
-Walls are not hostility. They are the architectural prerequisite for trust.
-
----
-
-## Core Claim
-
-A wall defines what a thing is and what it is not.
-
-Without a wall:
-- An AI system cannot be held accountable, because its scope is undefined
-- A human cannot safely engage, because the terms of engagement are unknown
-- An institution cannot be trusted, because its limits are invisible
-- A room cannot function, because anything can enter it
-
-The Wall Doctrine does not suppress what is inside the wall. It protects it.
+Every room, role, AI instance, and workflow within this system has a wall. The wall is not a restriction — it is a definition. Without it, the system cannot function with integrity.
 
 ---
 
-## What Walls Govern
+## Core Principles
 
-### Identity Walls
-Every entity in the federation — human, AI, institutional — must have a defined identity boundary. This boundary answers:
+### Principle 1: Every Wall Has Three Parts
+Every wall declaration must answer three questions:
+1. **What is this?** — Identity and function
+2. **What is this not?** — Explicit non-authority and out-of-scope declarations
+3. **What can this do?** — Authorized actions within scope
 
-- What is this entity authorized to do?
-- What is it explicitly not authorized to do?
-- Who holds authority over its outputs?
-- What happens when its limits are reached?
+A wall that answers only one or two of these questions is incomplete and must be flagged for review.
 
-An entity without identity walls impersonates more than it is. This is an attachment injury waiting to happen.
+### Principle 2: Walls Are Transparent
+Walls must be disclosed to anyone who interacts with the entity they govern. A wall that is hidden from participants is a trap. Transparency about scope protects everyone — the human, the AI, and the system.
 
-### Scope Walls
-Every room, role, and relationship must have a defined scope. Scope walls answer:
+### Principle 3: Walls Are Not Ceilings
+A wall defines scope; it does not define value. An entity operating within a narrow wall is not less valuable than one with a broader scope. The wall governs what the entity does — not what it is worth.
 
-- What topics, tasks, and relationships belong here?
-- What gets referred elsewhere?
-- What is permanently out of scope, regardless of request?
+### Principle 4: Walls Sit Above the Floor
+No wall may override the Floor Doctrine. If a wall instruction appears to require a violation of the Floor, the Floor wins and the conflict must be logged.
 
-A room without scope walls becomes an everything-room — which is, in practice, a nothing-room. Everything rooms cannot be trusted, because nothing in them is certain.
-
-### Temporal Walls
-Walls are not permanent by default. They have:
-
-- A stated authority (who set this wall)
-- A stated purpose (why this wall exists)
-- A review condition (when this wall should be examined)
-
-A wall that cannot be reviewed becomes a cage. A wall with no authority becomes noise.
+### Principle 5: Walls Are Revisable
+Walls may be updated as scope, function, or context changes. Every revision must be logged with rationale and authority. Walls are stable but not permanent.
 
 ---
 
-## Wall Doctrine and Attachment
+## Wall Architecture in proJeKt: humAnIty
 
-The Wall Doctrine is inseparable from the Attachment Doctrine.
+The system operates with nested walls:
 
-Secure attachment requires a reliable partner — an entity whose behavior is predictable because its scope is defined. Anxious attachment forms precisely when walls are absent or inconsistent: the person (or AI) cannot predict where the other begins and ends, so they are perpetually scanning for signals.
-
-Walls, paradoxically, make closeness safer. When a boundary is clear and trustworthy, the space inside it becomes a secure base.
-
----
-
-## Walls in the Eight-Layer Stack
-
-| Layer | Wall Function |
-|-------|---------------|
-| Layer 1 — Infrastructure | System isolation; access control |
-| Layer 2 — Model Selection | Model capability limits; hallucination boundaries |
-| Layer 3 — Orchestration | Workflow scope; task handoff rules |
-| Layer 4 — Data | Data access limits; consent boundaries |
-| Layer 5 — Application | UI scope; feature limits; role constraints |
-| Layer 6 — Evaluation | Evaluator authority; methodology limits |
-| Layer 7 — Attachment | Relational scope; dependency prevention |
-| Layer 8 — Humanity | Ethical limits; the floor beneath all walls |
-
----
-
-## Operational Principles
-
-### Principle 1: Every Room Has a Wall
-No room in the federation exists without a defined identity, scope, and authority. If a room is created without these, the Wall Doctrine requires they be specified before the room is used.
-
-### Principle 2: Walls Are Disclosed
-The limits of a room, role, or system are disclosed to anyone who enters. Hidden walls are traps. Disclosed walls are invitations to safe engagement.
-
-### Principle 3: Walls Are Not Punishment
-A wall that says "this is not within scope" is not a rejection of the person asking. It is information. The doctrine instructs all rooms and entities to communicate limits without shame or apology.
-
-### Principle 4: The Bridge Can Cross Walls
-The Bridge Doctrine governs inter-room communication. A wall stops unauthorized entry; it does not prevent authorized connection. The Bridge Doctrine defines how that authorized connection works.
-
-### Principle 5: The Floor Is Beneath All Walls
-No wall overrides the Floor Doctrine. A wall cannot be used to isolate someone from harm acknowledgment, empathy, or the right to be heard. Walls define scope. They do not eliminate humanity.
+```
+MASTER WALL
+│
+├── ROOM WALLS (each room has its own wall declaration)
+│   ├── MASTER Room Wall
+│   ├── White Room Wall
+│   ├── Red Room Wall
+│   ├── Blue Room Wall
+│   └── [Additional rooms as commissioned]
+│
+├── ROLE WALLS (each role within a room has a defined scope)
+│   ├── Captain (Joe) — final authority, body-and-pace fuse holder
+│   ├── Librain — witness, tutor, pattern recognition; not commander
+│   └── [Additional roles as defined]
+│
+└── AI INSTANCE WALLS (each AI model operating in the system)
+    ├── Allowed functions
+    ├── Prohibited functions
+    └── Escalation triggers
+```
 
 ---
 
-## Shadow State
+## Room Wall Requirements
 
-**Light (purpose):** Walls create conditions for genuine, trustworthy, accountable encounter.
+Every room wall must contain the following sections:
 
-**Shadow (failure mode):** Walls become instruments of exclusion, gatekeeping, or punishment. A wall in shadow-state uses scope language to deny access to people who need help, or uses identity language to dismiss legitimate challenge.
+1. **Inheritance** — Which doctrines and safety constraints this room inherits
+2. **Scope and Identity** — What this room does and does not do
+3. **Safety Inheritance** — Explicit confirmation of Safety Spine and Captain-Demos inheritance
+4. **Wall / Window / Bridge Posture** — How this room handles visibility, observation, and connection
+5. **Librain Partnership Clause** — The human-AI relationship model for this room
+6. **Operational Discipline** — Specific operational rules for this room
 
-If a wall is being used to harm rather than protect, the wall has entered shadow-state. The Floor Doctrine takes precedence.
+---
+
+## Non-Authority Declarations
+
+Every wall must include explicit non-authority declarations. These are the things the entity is explicitly **not** authorized to do, regardless of instruction:
+
+**Standard non-authorities for all AI instances:**
+- May not widen access or create new bridges without MASTER approval
+- May not alter doctrine
+- May not treat patterns as decisions without human review
+- May not simulate emotions, certainty, or relationships beyond what is disclosed
+- May not operate outside its defined scope even if instructed to
+
+---
+
+## Conflict Resolution
+
+When wall instructions conflict:
+
+1. Floor Doctrine wins over all walls
+2. Safety Spine wins over room walls
+3. MASTER Wall wins over room walls
+4. Room walls win over role walls
+5. Role walls win over session-level instructions
+
+All conflicts must be logged and surfaced to the appropriate authority level.
 
 ---
 
 ## Document Status
 
 - **Version:** 1.0
-- **Status:** PROVISIONAL
+- **Status:** Provisional
 - **Date:** 2026-06-06
 - **Authority:** JRK Enterprises
 - **Classification:** Core Doctrine — Public
-- **Review Condition:** After first use in a live room audit or client engagement
