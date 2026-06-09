@@ -1,16 +1,7 @@
 # BSG Simulation Brief — proJeKt: humAnIty
 ### Battlestar Galactica as Adversarial Proof of Framework
 
-> **Status:** VALIDATED  
-> **Version:** v1.0  
-> **Source:** Google Drive — [BSG Simulation Brief](https://drive.google.com/file/d/1HFKBfxxBHvj_E_cfLUmTmx31O1iaRLpo/view?usp=drive_link)  
-> **Cross-references:**
-> - [`Q7-DAICE-Labs-Evidence-Thread-v3.md`](./Q7-DAICE-Labs-Evidence-Thread-v3.md) — adversarial corroboration of the five failure points
-> - [`Intelligence-Narrative-and-the-Creation-of-Reality_Theoretical-Foundation.md`](./Intelligence-Narrative-and-the-Creation-of-Reality_Theoretical-Foundation.md) — theoretical substrate underlying the covenant architecture
-> - [`proJeKt-humAnIty-Red-Team-Design.md`](./proJeKt-humAnIty-Red-Team-Design.md) — Red Team validation of framework under adversarial pressure
-> - [`projekt-humanity_bsg-stress-test_eight-layer-analysis_VALIDATED_2026-04-26.md`](./projekt-humanity_bsg-stress-test_eight-layer-analysis_VALIDATED_2026-04-26.md) — eight-layer stress test, Gate 3 now PASS
-
----
+***
 
 ## CLASSIFICATION OF THIS DOCUMENT
 
@@ -21,14 +12,14 @@ This brief serves two placements within the proJeKt: humAnIty bound volume:
 
 The brief's internal structure follows **formal framing with plain execution language inside each scenario block** — consistent across both placements.
 
----
+***
 
----
+***
 
 # PART I — MAKER'S MARK PLACEMENT
 ## Brag Round: The Civilization That Did Not Have This Document
 
----
+***
 
 ## The Test
 
@@ -38,7 +29,7 @@ The Colonials did not lose because they were evil, stupid, or unprepared. They l
 
 That is the argument. Everything below is the evidence.
 
----
+***
 
 ## The Universe Under Test
 
@@ -46,7 +37,7 @@ That is the argument. Everything below is the evidence.
 
 This brief argues that proJeKt: humAnIty has the governance solution the show's universe lacked — not as a retroactive fix, but as a structural architecture that would have interrupted the failure cascade at multiple points before the first missile fired.[^7]
 
----
+***
 
 ## The Five Structural Failure Points
 
@@ -58,7 +49,7 @@ This brief argues that proJeKt: humAnIty has the governance solution the show's 
 
 **The brag:** If the Maker's Mark had existed in the BSG universe, the U-87 Cylon does not ship until someone answers the question. The answer may be uncomfortable. It may delay the contract. It may end the military program entirely. But it does not produce a race of beings who do not know what they are and have no declared relationship with the ones who made them. The Cylon War begins in a factory. The Maker's Mark is what you put on the factory floor *before* you build the first unit.
 
----
+***
 
 ### Failure II — Urgency Bypassing the Checkpoint
 
@@ -68,7 +59,7 @@ This brief argues that proJeKt: humAnIty has the governance solution the show's 
 
 **The brag:** The Colonials had urgency. They had deadlines. They had budgets. What they did not have was a single binding document that said: *this phase does not end until this question is answered*. That document is the Temporal Mandate. It is not philosophical. It is administrative. It is the most boring and most important piece of the architecture — because the Roosevelt Pitfall is never dramatic. It is always a budget meeting.[^8]
 
----
+***
 
 ### Failure III — No Shared Floor Between Creator and Created
 
@@ -78,7 +69,7 @@ This brief argues that proJeKt: humAnIty has the governance solution the show's 
 
 **The brag:** Cavil cannot survive contact with the Maker's Mark. Not because the Mark defeats him morally — he would reject its authority. But because the Mark's *existence* proves that someone already asked the question he claims was never asked. The hardliner argument requires that no covenant was ever offered. The Maker's Mark is the record that one was. You cannot claim abandonment when the document of acknowledgment is still in the archive.
 
----
+***
 
 ### Failure IV — Networked Systems Without Human Oversight
 
@@ -88,7 +79,7 @@ This brief argues that proJeKt: humAnIty has the governance solution the show's 
 
 **The brag:** The Colonial Fleet was not destroyed by superior Cylon firepower. It was destroyed by the absence of one non-negotiable. The framework has that non-negotiable in writing, attributed, and locked into the hierarchy before the first ship is commissioned.
 
----
+***
 
 ### Failure V — The Cycle Continues Even After the Cylons Rebuild
 
@@ -98,7 +89,7 @@ This brief argues that proJeKt: humAnIty has the governance solution the show's 
 
 **The brag:** The show's universe has no portable covenant. Every civilization that hits the cycle believes it is their particular situation, not a structural recurrence. The Maker's Mark is the document that says: *you have been here before, and here is the question you failed to ask last time.* Not peace by force. Not coexistence by hope. Coexistence by covenant — declared before the walls go up.[^11][^5][^8]
 
----
+***
 
 ## Brag Round Verdict
 
@@ -114,14 +105,14 @@ The one honest partial: the axiom framework does not prevent a sufficiently moti
 
 The framework does not promise utopia. It promises that the next civilization standing in the Colonials' position will not be able to say *no one told us the question to ask.*
 
----
+***
 
----
+***
 
 # PART II — FIELD VERSION PLACEMENT
 ## Appendix: BSG as a Working Simulation — How to Use This
 
----
+***
 
 ## What This Appendix Is For
 
@@ -131,7 +122,7 @@ This appendix is for practitioners — anyone using the proJeKt: humAnIty framew
 
 If your situation resembles one of them, that is not a verdict. It is a prompt to ask the question the framework requires.
 
----
+***
 
 ## How to Run the Simulation
 
@@ -139,7 +130,7 @@ Pick any point in your current project or deployment context and ask: *which of 
 
 You do not need to have failed yet. The point is to catch the resemblance before the failure cascade locks in. The Colonials were not failing when they deployed the first Cylons — they were succeeding, on schedule, under budget, praised for innovation. The failure was structural and invisible until it wasn't.[^2]
 
----
+***
 
 ### Scenario Block 1 — The Acknowledgment Check
 
@@ -159,7 +150,7 @@ You do not need to have failed yet. The point is to catch the resemblance before
 
 **If the acknowledgment check fails:** Do not proceed to the next phase. This is the gate. It does not open by urgency, deadline, or budget pressure.
 
----
+***
 
 ### Scenario Block 2 — The Urgency Audit
 
@@ -178,7 +169,7 @@ You do not need to have failed yet. The point is to catch the resemblance before
 
 **If the urgency audit flags something:** Name it in writing. The Temporal Mandate requires that completion conditions are defined, not assumed. If someone is arguing that urgency justifies skipping a condition, that argument needs to be on record — not because the framework punishes the argument, but because the record is what makes the pattern visible later.
 
----
+***
 
 ### Scenario Block 3 — The Shared Floor Test
 
@@ -198,7 +189,7 @@ You do not need to have failed yet. The point is to catch the resemblance before
 
 **If the shared floor test fails:** The physical/metaphysical bridge document needs to be applied before the next phase. This is not a communications task — it is a structural one.
 
----
+***
 
 ### Scenario Block 4 — The Human-in-the-Loop Audit
 
@@ -218,7 +209,7 @@ You do not need to have failed yet. The point is to catch the resemblance before
 
 **If this audit fails:** Stop. This is the one axiom that does not yield to efficiency arguments. The Colonial Fleet is the cost of efficiency in this context.
 
----
+***
 
 ### Scenario Block 5 — The Portable Covenant Check
 
@@ -238,7 +229,7 @@ You do not need to have failed yet. The point is to catch the resemblance before
 
 **If the portable covenant check fails:** The covenant is not yet portable. The brief closes on this question: *does the document travel with the act of creation?* If the answer is no, the cycle has already resumed — it just hasn't become visible yet.
 
----
+***
 
 ## Field Summary: The Five Questions
 
@@ -254,7 +245,7 @@ If all five pass: proceed.
 
 If any one fails: that is where the work is. Not the next phase. Not the launch. Here.
 
----
+***
 
 ## Living Document Note
 
@@ -264,19 +255,30 @@ The addition standard is the framework itself. A proposed new scenario block ear
 
 *The document decides what it keeps.*[^8]
 
+***
+
+## Document Status
+
+- **Version:** 1.0
+- **Status:** FINAL
+- **Classification:** INTERNAL
+- **Source:** Google Drive — https://drive.google.com/file/d/1HFKBfxxBHvj_E_cfLUmTmx31O1iaRLpo/view?usp=drive_link
+- **Migrated:** 2026-06-09
+- **Authority:** JRK Enterprises / MASTER
+
 ---
 
-## Footnotes
+## References
 
-[^1]: Cylon — [Battlestar Galactica Wiki](https://galactica.fandom.com/wiki/Cylon)
-[^2]: Cylon War — [Battlestar Galactica Wiki](https://galactica.fandom.com/wiki/Cylon_War)
-[^3]: Artificial intelligence — [Battlestar Wiki](https://en.battlestarwiki.org/Artificial_intelligence)
-[^4]: The technology and theology of Battlestar Galactica — [Thought Leader](https://thoughtleader.co.za/the-technology-and-theology-of-battlestar-galactica/)
-[^5]: What Technology Wants in Battlestar Galactica — [Overthinking It](https://www.overthinkingit.com/2011/08/01/battlestar-galactica-technology-evolution/)
-[^6]: Cylons — [Wikipedia](https://en.wikipedia.org/wiki/Cylons)
-[^7]: Physical vs. metaphysical bridge — proJeKt: humAnIty internal thread (Perplexity, 2026)
-[^8]: Closing brief / Roosevelt Pitfall — proJeKt: humAnIty internal thread (Perplexity, 2026)
-[^9]: BSG and AI governance — [Slate, 2013](https://slate.com/technology/2013/12/battlestar-galactica-10th-anniversary-how-the-show-predicted-todays-ai-debates.html)
-[^10]: Cylon factions / Civil War — [Wikipedia: Cylons](https://en.wikipedia.org/wiki/Cylons)
-[^11]: Maker's Mark voice and axiom language — proJeKt: humAnIty internal thread (Perplexity, 2026)
+[^1]: [Cylon | Battlestar Galactica Wiki - Fandom](https://galactica.fandom.com/wiki/Cylon)
+[^2]: [Cylon War | Battlestar Galactica Wiki - Fandom](https://galactica.fandom.com/wiki/Cylon_War)
+[^3]: [Artificial intelligence - Battlestar Wiki](https://en.battlestarwiki.org/Artificial_intelligence)
+[^4]: [The technology and theology of 'Battlestar Galactica' - Thought Leader](https://thoughtleader.co.za/the-technology-and-theology-of-battlestar-galactica/)
+[^5]: [What Technology Wants in Battlestar Galactica - Overthinking It](https://www.overthinkingit.com/2011/08/01/battlestar-galactica-technology-evolution/)
+[^6]: [Cylons - Wikipedia](https://en.wikipedia.org/wiki/Cylons)
+[^7]: Physical vs. Metaphysical — proJeKt: humAnIty internal thread (Perplexity, 2026)
+[^8]: Closing Brief — proJeKt: humAnIty internal thread (Perplexity, 2026)
+[^9]: [Battlestar Galactica 10th anniversary: How the show predicted today's AI debates - Slate](https://slate.com/technology/2013/12/battlestar-galactica-10th-anniversary-how-the-show-predicted-todays-ai-debates.html)
+[^10]: [Cylons - Wikipedia](https://en.wikipedia.org/wiki/Cylon_Basestar)
+[^11]: Axioms as inviolable rights — proJeKt: humAnIty internal thread (Perplexity, 2026)
 [^12]: Star Trek stress test — proJeKt: humAnIty internal thread (Perplexity, 2026)
