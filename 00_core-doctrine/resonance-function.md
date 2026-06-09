@@ -86,7 +86,3 @@ A session scoring below 3.0 average triggers a resonance review flag.
 - **Last Modified:** 2025
 - **Authority:** JRK Enterprises
 - **Classification:** Core Doctrine — Public
-
----
-
-**Provenance:** Migrated from `jrk-enterprises/00_core-doctrine/` to `projekt-humanity-research/00_core-doctrine/` — 2026-06-09

@@ -67,7 +67,3 @@ Full doctrine files available in: [projekt-humanity-research](https://github.com
 ---
 
 > Version 1.1 | Status: ACTIVE | Date: 2026-06-08 | Authority: JRK Enterprises | Classification: PUBLIC
-
----
-
-**Migration note:** Migrated from `jrk-enterprises/00_core-doctrine/` to `projekt-humanity-research/00_core-doctrine/` — 2026-06-09

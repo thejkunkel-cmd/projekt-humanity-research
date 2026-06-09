@@ -137,7 +137,3 @@ It does not include:
 - **Declared By:** Joseph Kunkel / JRK Enterprises
 - **AI Channel:** Comet (Perplexity)
 - **Principle:** API > KPI — Attachment Precedes Instruction
-
----
-
-**Migration note:** Migrated from `jrk-enterprises/00_core-doctrine/` to `projekt-humanity-research/00_core-doctrine/` — 2026-06-09

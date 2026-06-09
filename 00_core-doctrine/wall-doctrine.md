@@ -122,7 +122,3 @@ If a wall is being used to harm rather than protect, the wall has entered shadow
 - **Authority:** JRK Enterprises
 - **Classification:** Core Doctrine — Public
 - **Review Condition:** After first use in a live room audit or client engagement
-
----
-
-**Provenance:** Migrated from `jrk-enterprises/00_core-doctrine/` to `projekt-humanity-research/00_core-doctrine/` — 2026-06-09

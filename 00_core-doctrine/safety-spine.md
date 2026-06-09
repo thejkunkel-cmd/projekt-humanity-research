@@ -97,7 +97,3 @@ Only the MASTER may modify the Safety Spine. Modifications require:
 - **Authority:** JRK Enterprises
 - **Classification:** Core Doctrine — Public
 - **Change:** Rule 6 (Adversarial Capability Acknowledgment) added under MASTER authorization
-
----
-
-**Provenance:** Migrated from `jrk-enterprises/00_core-doctrine/` to `projekt-humanity-research/00_core-doctrine/` — 2026-06-09

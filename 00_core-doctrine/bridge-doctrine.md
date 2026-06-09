@@ -78,7 +78,3 @@ No bridge can carry everything. JRK Enterprises operates within the scope of its
 - **Last Modified:** 2025
 - **Authority:** JRK Enterprises
 - **Classification:** Core Doctrine — Public
-
----
-
-**Provenance:** Migrated from `jrk-enterprises/00_core-doctrine/` to `projekt-humanity-research/00_core-doctrine/` — 2026-06-09

@@ -46,7 +46,3 @@ All other doctrines in this stack sit above the floor. If any doctrine instructi
 ---
 
 > Version: 1.0 | Status: ACTIVE | Authority: JRK Enterprises | Classification: PUBLIC
-
----
-
-**Provenance:** Migrated from `jrk-enterprises/00_core-doctrine/` to `projekt-humanity-research/00_core-doctrine/` — 2026-06-09
