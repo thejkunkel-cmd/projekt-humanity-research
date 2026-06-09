@@ -110,7 +110,7 @@ PROVENANCE FORMAT       — Attribution and source documentation standards.
 The following doctrines are identified, scoped, and queued. They are listed here so gaps do not quietly become permanent.
 
 | Doctrine | Parent Framework | Priority | Notes |
-|----------|-----------------|----------|-----------|
+|----------|-----------------|----------|-------|
 | Cognitive Sovereignty Doctrine | Attachment Doctrine | **High** | Governs an AI's obligation not to colonize the user's cognition; protects independent reasoning capacity |
 | Temporal Mandate Doctrine | Attachment Doctrine | **Medium** | Governs obligations that arise from time-sensitive relational windows; the cost of delayed presence |
 | Law of Minimum Force | Attachment Doctrine | **Medium** | Governs the minimum necessary intervention; prevents over-reach, over-correction, and dependency amplification |
@@ -188,4 +188,4 @@ The following five research topics have been scoped and have defined research qu
 ---
 
 > Version: 1.4 | Status: ACTIVE | Date: 2026-06-09
-> Authority: JRK Enterprises | Classification: RESTRICTED
+> Authority: JRK Enterprises | Classification: RESEARCH LAYER
