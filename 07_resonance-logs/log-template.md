@@ -32,6 +32,8 @@ All entries are governed by JRK Enterprises. MASTER authorization is required fo
 
 ## Layer(s) Activated
 
+*Check all that apply. This records which Eight-Layer framework layers were engaged during the resonance event.*
+
 - [ ] L1: Physical Infrastructure
 - [ ] L2: Energy Systems
 - [ ] L3: Compute / Processing
@@ -47,21 +49,27 @@ All entries are governed by JRK Enterprises. MASTER authorization is required fo
 
 ## Observation
 
+*Plain-language description of what occurred — what was said, done, noticed, or shifted. Write it as it happened. Do not editorialize yet.*
+
 ___________________________
 
 ---
 
 ## Resonance Markers
 
+*Complete each marker based on what was observed.*
+
 ### Emotional Engagement Indicator
-- [ ] High
-- [ ] Medium
-- [ ] Low
-- [ ] Negative
+- [ ] High — Visible excitement, emotional response, or strong engagement
+- [ ] Medium — Clear interest, questions asked, engagement sustained
+- [ ] Low — Polite attention, minimal response
+- [ ] Negative — Resistance, discomfort, or disengagement
 
 **Description:** ___________________________
 
 ### Behavioral Response
+*What did the person/group DO as a result of the resonance moment?*
+
 - [ ] Asked follow-up questions
 - [ ] Requested documentation or resources
 - [ ] Shared personal context or experience
@@ -73,20 +81,24 @@ ___________________________
 **Description:** ___________________________
 
 ### Attachment Signal
+*Did this moment produce or deepen an attachment bond?*
+
 - [ ] Yes — Clear attachment signal observed
-- [ ] Partial
-- [ ] No
-- [ ] Unknown
+- [ ] Partial — Some movement toward attachment
+- [ ] No — No attachment signal observed
+- [ ] Unknown — Insufficient data
 
 **Attachment type (if yes):**
-- [ ] Trust signal
-- [ ] Curiosity signal
-- [ ] Vulnerability signal
-- [ ] Commitment signal
+- [ ] Trust signal — They expressed or demonstrated trust
+- [ ] Curiosity signal — They leaned in, explored further
+- [ ] Vulnerability signal — They shared something real
+- [ ] Commitment signal — They made a concrete next step
 
 **Description:** ___________________________
 
 ### Framework Connection
+*What aspect of the proJeKt: humAnIty framework did this resonate with most directly?*
+
 - [ ] Safety Spine (00_core-doctrine)
 - [ ] Eight-Layer Framework (01_eight-layer-framework)
 - [ ] Evaluation / Comparison (02_evaluation)
@@ -112,13 +124,15 @@ ___________________________
 
 ## Facilitator Interpretation
 
+*After completing the observation and markers, what does this moment mean for the engagement or the framework?*
+
 *What was confirmed?*
 ___________________________
 
 *What was challenged or revised?*
 ___________________________
 
-*Recommended next step?*
+*What is the recommended next step based on this log entry?*
 ___________________________
 
 ---
@@ -134,6 +148,9 @@ ___________________________
 
 ---
 
+## Document Status
+
 - **Template Version:** 1.0
 - **Status:** Active — Operational Template
+- **Last Modified:** 2025
 - **Authority:** JRK Enterprises

@@ -28,8 +28,7 @@ All entries are governed by JRK Enterprises. MASTER authorization is required fo
 
 | Log ID | Date | Context | Layer(s) | Attachment Signal | Status |
 |---|---|---|---|---|---|
-| SESSION-2026-06-05-P1 | 2026-06-05 | Internal | L5, L7 | Strong | Archived |
-| SESSION-2026-06-05-P2 | 2026-06-05 | Internal | L5, L6, L7 | Strong | Archived |
+| *Entries will be added as sessions are documented* | — | — | — | — | — |
 
 ---
 
@@ -59,17 +58,32 @@ All entries are governed by JRK Enterprises. MASTER authorization is required fo
 
 ## Cumulative Summary
 
-- **Total entries:** 2
-- **Internal entries:** 2
-- **Strong attachment signals:** 2
-- **Entries approved for PROVENANCE.md:** 0 (pending MASTER review)
-- **Date range:** 2026-06-05 — present
+*Updated after each new log entry.*
+
+- **Total entries:** 0
+- **Client entries:** 0
+- **Partner entries:** 0
+- **Evaluator entries:** 0
+- **Internal entries:** 0
+- **Public entries:** 0
+- **Strong attachment signals:** 0
+- **Entries approved for PROVENANCE.md:** 0
+- **Date range:** —
+
+---
+
+## Governance
+
+- This index is governed by JRK Enterprises
+- All log entries referenced here are confidential unless MASTER-authorized for public use
+- The index itself is a provenance artifact and is not deleted
+- CHANGELOG entries are required for every new log addition
 
 ---
 
 ## Document Status
 
-- **Version:** 1.1
+- **Version:** 1.0
 - **Status:** Active — Operational Index
-- **Last Modified:** June 9, 2026
+- **Last Modified:** 2025
 - **Authority:** JRK Enterprises
