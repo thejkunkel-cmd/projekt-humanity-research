@@ -60,48 +60,48 @@ PROVENANCE FORMAT       — Attribution and source documentation standards.
 - **Override authority:** None. Nothing overrides the Floor.
 - **Key principle:** Presence, empathy, non-harm, and human final authority are always active
 - **Status:** ACTIVE
-- **File:** [00_doctrine/floor-doctrine.md](./00_doctrine/floor-doctrine.md)
+- **File:** [00_core-doctrine/floor-doctrine.md](./00_core-doctrine/floor-doctrine.md)
 
 ### `attachment-doctrine.md`
 - **Function:** Governs how human-AI bonds form and must be protected across all layers
 - **Key principle:** Attachment theory governs all intelligence that forms relationships
 - **Status:** ACTIVE
-- **File:** [00_doctrine/attachment-doctrine.md](./00_doctrine/attachment-doctrine.md)
+- **File:** [00_core-doctrine/attachment-doctrine.md](./00_core-doctrine/attachment-doctrine.md)
 
 ### `wall-doctrine.md`
 - **Function:** Governs identity and scope boundaries for all rooms, roles, and systems
 - **Key principle:** A wall without disclosed purpose is a trap; a wall without a floor is a cage
 - **Status:** PROVISIONAL v1.0 — 2026-06-06
-- **File:** [00_doctrine/wall-doctrine.md](./00_doctrine/wall-doctrine.md)
+- **File:** [00_core-doctrine/wall-doctrine.md](./00_core-doctrine/wall-doctrine.md)
 
 ### `window-doctrine.md`
 - **Function:** Governs visibility, observation, and consent within the federation
 - **Key principle:** Minimum necessary visibility; observation creates obligation
 - **Status:** PROVISIONAL v1.0 — 2026-06-06
-- **File:** [00_doctrine/window-doctrine.md](./00_doctrine/window-doctrine.md)
+- **File:** [00_core-doctrine/window-doctrine.md](./00_core-doctrine/window-doctrine.md)
 
 ### `bridge-doctrine.md`
 - **Function:** Defines JRK Enterprises as a bridge institution; governs authorized connection
 - **Key principle:** A one-directional bridge is a wall
 - **Status:** ACTIVE
-- **File:** [00_doctrine/bridge-doctrine.md](./00_doctrine/bridge-doctrine.md)
+- **File:** [00_core-doctrine/bridge-doctrine.md](./00_core-doctrine/bridge-doctrine.md)
 
 ### `resonance-function.md`
 - **Function:** Quality filter for all human-AI interaction
 - **Scoring dimensions:** Accuracy, Relevance, Clarity, Ethics, Attachment
 - **Key principle:** Resonance is not agreement — it is alignment of signal
 - **Status:** ACTIVE
-- **File:** [00_doctrine/resonance-function.md](./00_doctrine/resonance-function.md)
+- **File:** [00_core-doctrine/resonance-function.md](./00_core-doctrine/resonance-function.md)
 
 ### `safety-spine.md`
 - **Function:** Cross-cutting guardrails; structural connective tissue between all layers
 - **Status:** ACTIVE v1.1
-- **File:** [00_doctrine/safety-spine.md](./00_doctrine/safety-spine.md)
+- **File:** [00_core-doctrine/safety-spine.md](./00_core-doctrine/safety-spine.md)
 
 ### `PROVENANCE-FORMAT.md`
 - **Function:** Attribution standards, unnamed credit systems, source documentation
 - **Status:** ACTIVE
-- **File:** [00_doctrine/PROVENANCE-FORMAT.md](./00_doctrine/PROVENANCE-FORMAT.md)
+- **File:** [00_core-doctrine/PROVENANCE-FORMAT.md](./00_core-doctrine/PROVENANCE-FORMAT.md)
 
 ---
 
@@ -110,7 +110,7 @@ PROVENANCE FORMAT       — Attribution and source documentation standards.
 The following doctrines are identified, scoped, and queued. They are listed here so gaps do not quietly become permanent.
 
 | Doctrine | Parent Framework | Priority | Notes |
-|----------|-----------------|----------|-------|
+|----------|-----------------|----------|-----------|
 | Cognitive Sovereignty Doctrine | Attachment Doctrine | **High** | Governs an AI's obligation not to colonize the user's cognition; protects independent reasoning capacity |
 | Temporal Mandate Doctrine | Attachment Doctrine | **Medium** | Governs obligations that arise from time-sensitive relational windows; the cost of delayed presence |
 | Law of Minimum Force | Attachment Doctrine | **Medium** | Governs the minimum necessary intervention; prevents over-reach, over-correction, and dependency amplification |
@@ -187,5 +187,5 @@ The following five research topics have been scoped and have defined research qu
 
 ---
 
-> Version: 1.3 | Status: ACTIVE | Date: 2026-06-09
-> Authority: JRK Enterprises | Classification: RESEARCH LAYER
+> Version: 1.4 | Status: ACTIVE | Date: 2026-06-09
+> Authority: JRK Enterprises | Classification: RESTRICTED
