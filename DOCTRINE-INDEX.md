@@ -126,7 +126,7 @@ The following folders in `projekt-humanity-research` map to the research and ana
 |--------|-------|----------|
 | `11_research/` | Source material | External briefs, BSG stress test, Copilot prompts, red team documents |
 | `12_analysis/` | Applied analysis | Scored work, anomaly log, pattern outputs, captain-state records |
-| `13_reflection/` | Observation layer | Field notes, pattern tracking, anomaly threads |
+| `13_reflection/` | Witness layer | Written reflections by people who have read the full corpus. Open to anyone who has genuinely engaged the material. |
 
 ---
 
@@ -154,6 +154,20 @@ The following folders in `projekt-humanity-research` map to the research and ana
 |------|--------|
 | `anomaly-log_v1_ACTIVE_2026-04-26.md` | ACTIVE |
 | `captain-state_template.md` | ACTIVE |
+| `4-CHANNEL-TESLA_pattern-v1.0.md` | ACTIVE |
+| `blue-room_v3.1-shadow-layer_2026-05-18.md` | ACTIVE |
+| `living_ouroboros_v3.md` | ACTIVE |
+
+---
+
+### `13_reflection/` — Reflection Entries
+
+| File | Author | Date | Status |
+|------|--------|------|--------|
+| `reflection-template.md` | — | — | TEMPLATE |
+| *(first reflection pending)* | Joe | TBD | PENDING |
+
+> This layer is open. If you have read the material and have something honest to say about it, use the template.
 
 ---
 
@@ -184,8 +198,9 @@ The following five research topics have been scoped and have defined research qu
 7. **Doctrines in Development** — the frontier of the framework
 8. **Research Layer** (`11_research/`) — source material and stress tests
 9. **Analysis Layer** (`12_analysis/`) — anomaly log and pattern analysis
+10. **Reflection Layer** (`13_reflection/`) — witness accounts from people who read the full corpus
 
 ---
 
-> Version: 1.4 | Status: ACTIVE | Date: 2026-06-09
+> Version: 1.5 | Status: ACTIVE | Date: 2026-06-09
 > Authority: JRK Enterprises | Classification: RESEARCH LAYER
