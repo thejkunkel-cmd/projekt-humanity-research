@@ -1,16 +1,19 @@
-# 13_reflection — Anomaly Log, Pattern Tracking, Field Notes
+# 13_reflection — Observation Layer
 
-**Renamed from:** `13_research` (jrk-enterprises)
-**Status:** ACTIVE
-**Classification:** INTERNAL — credentialed access
+**Layer:** Field notes, open pattern threads, and anomalies that have not yet been resolved or promoted to formal analysis.
 
----
+**What belongs here:** Raw observation — things noticed but not yet fully understood. This folder is where patterns live before they are named. It is the least structured layer by design.
 
-This folder holds field notes, pattern tracking records, anomaly threads, and reflective outputs that do not fit the applied-analysis layer. It is the observation layer — where patterns are named before they are analyzed.
+**What does not belong here:** Validated analysis (that goes in `12_analysis/`), source research documents (that goes in `11_research/`), or doctrine (that goes in `00_core-doctrine/`).
 
-> Note: The anomaly log has been migrated to `12_analysis/` where it lives as a primary analysis output. This folder holds future field note entries and pattern-tracking threads.
+**Promotion rule:** When a pattern in this folder becomes clear enough to name and act on, it moves to `12_analysis/`. It does not get deleted — it gets a status update and a link to the promoted document.
 
 ---
 
-*Migrated from `jrk-enterprises/13_research` — 2026-06-09*
-*Ready to receive field notes and pattern-tracking entries.*
+## Contents
+
+This folder is currently empty. Observation threads are added here as sessions generate them.
+
+---
+
+> Part of the `projekt-humanity-research` archive. See root [`README.md`](../README.md) for full context.
