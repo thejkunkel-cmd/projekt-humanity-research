@@ -1,19 +1,39 @@
-# 13_reflection — Observation Layer
+# 13_reflection
 
-**Layer:** Field notes, open pattern threads, and anomalies that have not yet been resolved or promoted to formal analysis.
-
-**What belongs here:** Raw observation — things noticed but not yet fully understood. This folder is where patterns live before they are named. It is the least structured layer by design.
-
-**What does not belong here:** Validated analysis (that goes in `12_analysis/`), source research documents (that goes in `11_research/`), or doctrine (that goes in `00_core-doctrine/`).
-
-**Promotion rule:** When a pattern in this folder becomes clear enough to name and act on, it moves to `12_analysis/`. It does not get deleted — it gets a status update and a link to the promoted document.
+**Layer:** Reflection  
+**Status:** OPEN — awaiting first entry  
+**Classification:** INTERNAL
 
 ---
 
-## Contents
+## Purpose
 
-This folder is currently empty. Observation threads are added here as sessions generate them.
+This folder is for people who have made it all the way through the full proJeKt: humAnIty corpus — the research, the analysis, the doctrine — and have something to say about what they found.
+
+This is not a summary layer. It is not a critique layer. It is a witness layer.
+
+A reflection here means: *you read the material, you sat with it, and you wrote down what happened in you when you did.*
 
 ---
 
-> Part of the `projekt-humanity-research` archive. See root [`README.md`](../README.md) for full context.
+## Who can contribute
+
+Anyone who has completed a full read of the material and wants to leave a record. There is no qualification other than genuine engagement.
+
+---
+
+## Format
+
+Use the template: `reflection-template.md`
+
+Name your file: `reflection_[your-name-or-handle]_[YYYY-MM-DD].md`
+
+No grading. No gatekeeping. No required conclusions.
+
+---
+
+## Entries
+
+| File | Author | Date | Status |
+|------|--------|------|--------|
+| *(first reflection pending)* | Joe | TBD | PENDING |
